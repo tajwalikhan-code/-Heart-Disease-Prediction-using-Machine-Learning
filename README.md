@@ -352,10 +352,9 @@ Special thanks to **CodeAlpha** for providing practical Machine Learning interns
 
 ### Connect with me
 
-* 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-* 💻 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* 📧 Email: [your@email.com](mailto:your@email.com)
-
+* 💼 LinkedIn: www.linkedin.com/in/taj-wali-khan-03a7693aa
+* 💻 GitHub: https://github.com/tajwalikhan-code
+* 📧 Email: tajwalikhanoffical@gmail.com
 ---
 
 # ⭐ Support
